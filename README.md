@@ -1,7 +1,7 @@
 # Consultas de SQL con Azure SQL Database 
 **Objetivo:** Realizar una consulta de base de datos utilizando el recurso de SQL Database de Azure.   
 
-![](/imagenes/virtual%20machine.png)
+![](/imagenes/azure-sql-database.png)
 
 **Requisitos**
 - Cuenta de Azure con una suscripción activa
